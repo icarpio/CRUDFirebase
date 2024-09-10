@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631612032301",
+    "project_id": "crudbase-c79a6",
+    "storage_bucket": "crudbase-c79a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631612032301:android:2705ae7d81579025ba7fa4",
+        "android_client_info": {
+          "package_name": "com.example.crudadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8o92hng-Zr89aJvqq9d6WIRwPmlIet9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631612032301:android:40bad17b29f572efba7fa4",
+        "android_client_info": {
+          "package_name": "com.example.crudfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8o92hng-Zr89aJvqq9d6WIRwPmlIet9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
