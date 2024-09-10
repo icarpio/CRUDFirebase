@@ -14,6 +14,8 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        println("PRUEBA GITHUB")
+
         binding.mainUpload.setOnClickListener {
             val intent = Intent(this@MainActivity, UploadActivity::class.java)
             startActivity(intent)
